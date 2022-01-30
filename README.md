@@ -18,6 +18,6 @@ Piedino is a little 3d printable support for pcb boards.
       ```
 3. Compile
 4. After compiling note the line `ECHO: <some layer value>`
-  - This will be the layer you will need to stop printing to insert the nut
+      - This will be the layer you will need to stop printing to insert the nut
 6. Export Stl
 7. Slice it with you favorite software and remeber to pause the print at the value printed in the console.
