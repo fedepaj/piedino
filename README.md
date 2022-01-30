@@ -3,7 +3,7 @@ Piedino is a little 3d printable support for pcb boards.
 
 ## How to use
 1. Open the file in openscad ide
-2. Set the mesaures
+2. Set the values
       ```
       extra=<tolerance>;
       bottom=<bottom base>;
